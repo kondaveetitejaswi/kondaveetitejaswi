@@ -1,4 +1,4 @@
-I am a Data Science Student, at Indian Institute of Science Education and Research Thiruvananthapuram.
+Data Science Major Student, at Indian Institute of Science Education and Research Thiruvananthapuram.
 Passionate about Machine Learning and Artificial Intelligence.
 
 <!---
